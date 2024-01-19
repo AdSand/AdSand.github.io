@@ -4,14 +4,14 @@
 
 ## University Projects
 
-[Advanced Graphics for Games](/sample_page)
+[Advanced Graphics for Games](/advanced_graphics)
 
 #### A project using C++ and OpenGL, to render a space scene.
 
 <img src="images/AdvancedGraphicsThumbnail.png?raw=true"/>
 
 ---
-[Advanced Game Technologies](/pdf/sample_presentation.pdf)
+[Advanced Game Technologies](/advanced_technologies)
 
 #### A heist game, created with C++. Involved implementing physics, AI and networking.
 
