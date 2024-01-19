@@ -4,12 +4,12 @@
 
 ### University Projects
 
-[Advanced Graphics For Games](/sample_page)
+[Advanced Graphics for Games](/sample_page)
 <img src="images/AdvancedGraphicsThumbnail.png?raw=true"/>
 
 ---
 [Advanced Game Technologies](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/AdvancedGamesThumbnail.png?raw=true"/>
 
 ---
 [Advanced Programming For Games](http://example.com/)
