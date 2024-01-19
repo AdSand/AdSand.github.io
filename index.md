@@ -2,18 +2,29 @@
 
 ---
 
-### University Projects
+## University Projects
 
 [Advanced Graphics for Games](/sample_page)
+
+#### A project using C++ and OpenGL, to render a space scene.
+
 <img src="images/AdvancedGraphicsThumbnail.png?raw=true"/>
 
 ---
 [Advanced Game Technologies](/pdf/sample_presentation.pdf)
+
+#### A heist game, created with C++. Involved implementing physics, AI and networking.
+
 <img src="images/AdvancedGamesThumbnail.png?raw=true"/>
 
 ---
 [Advanced Programming For Games](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+#### Learning C++ for programming video games. I recieved a mark of 100% for this module.
+
+
+<img src="images/AdvancedProgrammingThumbnail.png?raw=true"/>
 
 ---
 
