@@ -5,7 +5,7 @@
 ### University Projects
 
 [Advanced Graphics For Games](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/AdvancedGraphicsThumbnail.png?raw=true"/>
 
 ---
 [Advanced Game Technologies](/pdf/sample_presentation.pdf)
