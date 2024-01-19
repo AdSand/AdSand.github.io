@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### University Projects
 
-[Project 1 Title](/sample_page)
+[Advanced Graphics For Games](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Advanced Game Technologies](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Advanced Programming For Games](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
