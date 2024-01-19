@@ -1,8 +1,10 @@
-## Portfolio
+# Portfolio
 
 ---
 
 ## University Projects
+
+---
 
 [Advanced Graphics for Games](/advanced_graphics)
 
@@ -18,7 +20,7 @@
 <img src="images/AdvancedGamesThumbnail.png?raw=true"/>
 
 ---
-[Advanced Programming For Games](http://example.com/)
+[Advanced Programming For Games](/advanced_programming)
 
 
 #### Learning C++ for programming video games. I recieved a mark of 100% for this module.
@@ -28,16 +30,17 @@
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+## Personal Projects
 
 ---
 
+[2 Week Game Jam - January 2024](/gamejam_bread)
+
+
+#### Working within a team to create a Unity game.
+
+
+<img src="images/AdvancedProgrammingThumbnail.png?raw=true"/>
 
 
 
