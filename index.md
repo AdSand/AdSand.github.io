@@ -29,6 +29,34 @@
 <img src="images/AdvancedProgrammingThumbnail.png?raw=true"/>
 
 ---
+[Gaming Technologies and Simulations](/games_tech)
+
+
+#### Learning Unity to create games with physics and AI.
+
+
+<img src="images/GamesTechThumbnail.png?raw=true"/>
+
+---
+[Graphics for Games](/graphics)
+
+
+#### Learning Unity to render a graphical scene with terrain, textures and particles.
+
+
+<img src="images/GraphicsThumbnail.png?raw=true"/>
+
+---
+[Stage 3 Dissertation](/dissertation)
+
+
+#### My stage 3 disseration that explored using a Genetic Algorithm for pathfinding in Video Games.
+
+
+<img src="images/DissertationThumbnail.png?raw=true"/>
+
+---
+
 
 ## Personal Projects
 
