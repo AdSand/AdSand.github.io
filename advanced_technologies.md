@@ -57,13 +57,12 @@ Some game objects, such as the player, use inheritance so that their OnCollision
 
 Here is some example code of a key detecting if the player (tag = 1) has collided with it, and if so, opening the connected door.
 ```C++
-	void OnCollisionBegin(GameObject* otherObject) override {
-		if (otherObject->GetTag() == 1)
-		{
-			linkedDoor->GetTransform().SetPosition(linkedDoor->GetTransform().GetPosition() + Vector3(0, 8, 0));
-			linkedDoor->GetRenderObject()->SetColour(Debug::GREEN);
-			g->RemoveGameObject(this);
-		}
+void OnCollisionBegin(GameObject* otherObject) override {
+	if (otherObject->GetTag() == 1)
+	{
+		linkedDoor->GetTransform().SetPosition(linkedDoor->GetTransform().GetPosition() + Vector3(0, 8, 0));
+		linkedDoor->GetRenderObject()->SetColour(Debug::GREEN);
+		g->RemoveGameObject(this);		}
 	}
 ```
 
