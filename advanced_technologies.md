@@ -6,14 +6,20 @@ This project includes the tutorials and coursework submission for the CSC8503 - 
 
 A small heist game was created, using C++.
 
-- Find the keys to unlock the doors through the maze.
-- Collect the yellow orbs for points and speed boosts.
-- Smash through the ball pit to gain some points.
-- Avoid the red enemies (they will send you back to the start if you don’t have the heist item). They will also take 1 health for every collision with them.
-- Steal the heist item and bring it back to where you started.
- 
-- Avoid the killer behaviour tree goose that will chase you when you have the item. It’s instant death if he hits you.
-- The game ends when run out of lives, the timer reaches 0, or you bring the heist item back to the start.
+The aim of the game is to explore the maze, collect orbs, avoid enemies and steal an item (the golden goat!). Return the goat to your starting position to win.
+
+
+Code for this whole project [can be found here.](https://github.com/AdSand/CSC8503)
+
+Key files:
+
+[Game code](https://github.com/AdSand/CSC8503/blob/master/CSC8503/TutorialGame.cpp)
+
+[Behaviour tree and pathfinding](https://github.com/AdSand/CSC8503/blob/master/CSC8503/AStarEnemy.cpp)
+
+[State Machine](https://github.com/AdSand/CSC8503/blob/master/CSC8503/EnemyStateObject.cpp)
+
+[Main - game mangement and pushdown automata](https://github.com/AdSand/CSC8503/blob/master/CSC8503/Main.cpp)
 
 ---
 
@@ -67,6 +73,27 @@ void OnCollisionBegin(GameObject* otherObject) override {
 ```
 
 ##### Constraints
+
+I create a hinge constrain that allowed for gates to be added in the game. The gates are able to move in a full 360 range, but will not change their y-position in the world. They will also remain at a constant distance from the gate posts.
+
+<p align="center">
+<img src="images/AdvancedGames11.png?raw=true"/>
+</p>
+
+```C++
+void HingeConstraint::UpdateConstraint(float dt) {
+
+	Vector3 direction = (objectA->GetTransform().GetPosition() - objectB->GetTransform().GetPosition()).Normalised();
+	float newAngle = RadiansToDegrees(atan2f(-direction.z, direction.x));
+
+	objectA->GetTransform().SetOrientation(Quaternion::EulerAnglesToQuaternion(0, newAngle, 0));
+	objectB->GetTransform().SetOrientation(objectA->GetTransform().GetOrientation());
+
+	Vector3 temp = objectA->GetTransform().GetPosition();
+	temp.y = objectB->GetTransform().GetPosition().y;
+	objectA->GetTransform().SetPosition(temp);
+}
+```
 
 
 
