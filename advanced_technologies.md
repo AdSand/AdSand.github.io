@@ -27,7 +27,7 @@ Key files:
 
 #### Physics
 
-##### Extra collisions
+##### Collision detection
 Ray - Capsule collision. This used ray - plane collision detection to find the closest point on a line representation of the capsule, and creating a temporary sphere volume at that position. Then running ray - sphere, it can be determined if the ray is hitting the capsule.
 
 <p align="center">

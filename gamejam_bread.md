@@ -6,6 +6,10 @@ This project involved working in a team to create a small Unity game. The game j
 
 The game jam lasted two weeks and I worked with four other people to produce the final product.
 
+<p align="center">
+<img src="images/GameJam1.png?raw=true"/>
+</p>
+
 ---
 
 My main roles in the project:
