@@ -1,4 +1,4 @@
-## CSC8502 - Advanced Graphics for Games
+# CSC8502 - Advanced Graphics for Games
 
 ---
 
@@ -12,7 +12,7 @@ Code for this project [can be found here.](https://github.com/AdSand/CSC8502/tre
 
 ---
 
-###Base Features
+## Base Features
 - Landscape from heightmap, with texturing
 - Light source, with bump mapping
 - Environment mapping with skybox and reflection on the water surface.
@@ -26,9 +26,9 @@ Code for this project [can be found here.](https://github.com/AdSand/CSC8502/tre
 
 ---
 
-###Advanced Features
+## Advanced Features
 
-#####Post processing effects
+#### Post processing effects
 
 An underwater blurring and colour correction effect, when the camera moves below water level.
 
@@ -42,7 +42,7 @@ Added a film grain effect and grey scale. The grey scale ignores fragments that 
 <img src="images/AdvancedGraphics3.png?raw=true"/>
 </p>
 
-#####Mutliple Viewpoints and Scenes
+#### Mutliple Viewpoints and Scenes
 
 Three cameras are used in total
 - Main Planet Camera – used for automatic and free camera movement.
@@ -51,14 +51,14 @@ Three cameras are used in total
 
 The main scene always shows in full screen. Seconds viewpoints are rendered in the bottom left of the screen, simultaneously. Different frustums are calculated for camera dependent culling.
 
-#####Skeletal Animation
+#### Skeletal Animation
 Skeletal animation is included, using the model matrix to allow the animated character to move across the planet.
 
 <p align="center">
 <img src="images/AdvancedGraphics6.png?raw=true"/>
 </p>
 
-#####Deferred Rendering
+#### Deferred Rendering
 The scene can be viewed using deferred rendering, using the same camera. This uses 100 spotlights, with their colours changed to match the theme of the scene. This is also displayed in the bottom left simultaneously.
 
 An improvement that could be made to the deferred rendering is allowing the animated character to use the light produced from this stage. Currently the shading of the animated character does not take into account the light calculations.
