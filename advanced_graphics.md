@@ -76,9 +76,13 @@ An improvement that could be made to the deferred rendering is allowing the anim
 
 ---
 Texture credits
+
 [Mossy Rock texutre](https://textures.pixel-furnace.com/texture?name=Mossy%20Rock)
+
 [Rock texture](https://textures.pixel-furnace.com/texture?name=Rock%2004)
+
 [Space cube map](https://tools.wwwtyro.net/space-3d/index.html#animationSpeed=1&fov=75.43504464834814&nebulae=true&pointStars=true&resolution=1024&seed=6rmkiduygiw0&stars=true&sun=true)
 
 Mesh credits
+
 [Tree mesh](https://assetstore.unity.com/packages/3d/vegetation/trees/dry-trees-86967)
