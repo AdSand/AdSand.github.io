@@ -68,7 +68,7 @@
 #### Working within a team to create a Unity game.
 
 
-<img src="images/AdvancedProgrammingThumbnail.png?raw=true"/>
+[<img src="images/AdvancedProgrammingThumbnail.png?raw=true"/>](/gamejam_bread)
 
 
 
