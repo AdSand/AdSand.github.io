@@ -25,4 +25,4 @@ My main roles in the project:
 
 A valuable skill I learned throughout this project was using version control (git) successfully in a team. This included branch management, merging branches and solving merge conflicts.
 
-This project provided an opportunity to work with code written by other team members, and writing code that would be used by other team members. This improved how I thought about the structure and writing of my code, such as following a coding standard, providing readable code, and generalising functions that could be used elsewhere in the project.
+This project provided an opportunity to work with code written by other team members, and writing code that would be used by other team members. This improved how I thought about the structure and writing of my code, such as following a coding standard, providing readable code, and providing functions that could be easily used elsewhere in the project.
