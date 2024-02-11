@@ -26,11 +26,6 @@ Key files:
 ## Implemented Features
 
 #### Physics
-##### Base collisions
-- AABB - AABB
-- AABB - Sphere
-- Sphere - Sphere
-- Ray collsions
 
 ##### Extra collisions
 Ray - Capsule collision. This used ray - plane collision detection to find the closest point on a line representation of the capsule, and creating a temporary sphere volume at that position. Then running ray - sphere, it can be determined if the ray is hitting the capsule.
