@@ -23,7 +23,7 @@
 [Advanced Programming For Games](/advanced_programming)
 
 
-#### Learning C++ for programming video games. I recieved a mark of 100% for this module.
+#### Learning C++ for programming video games and completing tasks based on a combinatorial problem.
 
 
 [<img src="images/AdvancedProgrammingThumbnail.png?raw=true"/>](/advanced_programming)
