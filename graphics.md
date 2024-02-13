@@ -18,6 +18,27 @@ Included Features:
 - Water and lava, with moving texture (using shader graphs)
 - Smoke particles
 
+Scripts were written in C#. Lava and water effects were created using Shader Graph.
+
+---
+
+<p align="center">
+<img src="images/Graphics1.png?raw=true"/>
+</p>
+
+<p align="center">
+<img src="images/Graphics2.png?raw=true"/>
+</p>
+
+<p align="center">
+<img src="images/Graphics3.png?raw=true"/>
+</p>
+
+<p align="center">
+<img src="images/GraphicsThumbnail.png?raw=true"/>
+</p>
+
+
 ---
 
 *Click the image below to view on YouTube.*
