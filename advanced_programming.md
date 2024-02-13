@@ -21,7 +21,9 @@ Tasks included:
 - Generating ASCII representations of histograms.
 
 
+<p align="center">
 <img src="images/AdvancedProgrammingThumbnail.png?raw=true"/>
+</p>
 
 ---
 
