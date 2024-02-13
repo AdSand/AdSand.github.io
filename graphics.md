@@ -4,7 +4,7 @@
 
 This project was for the coursework submission for the CSC3231 - Graphics for Games module at Newcastle University.
 
-This project involved rendering a planet surface in the Unity game engine.
+This project involved rendering a planet surface in the Unity game engine. I recieved a mark of 75% for this coursework.
 
 Included Features:
 - Camera movement
