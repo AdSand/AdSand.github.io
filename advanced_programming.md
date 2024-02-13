@@ -4,9 +4,7 @@
 
 This project was the coursework submission for the CSC8501 - Advanced Programming for Games module at Newcastle University.
 
-I was given a range of tasks, based on the Beal Conjecture. I had to write a program in C++ to complete the tasks.
-
-For this coursework I recieved a mark of 100%
+I was given a range of tasks, based on the Beal Conjecture. I had to write a program in C++ to complete the tasks. For this coursework I recieved a mark of 100%
 
 Repository link [can be found here](https://github.com/AdSand/CSC8501).
 

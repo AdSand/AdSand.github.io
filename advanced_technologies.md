@@ -4,7 +4,7 @@
 
 This project includes the tutorials and coursework submission for the CSC8503 - Advanced Game Technologies module at Newcastle University.
 
-A small heist game was created, using C++.
+A small heist game was created, using C++. For this coursework I recieved a mark of 74%.
 
 The aim of the game is to explore the maze, collect orbs, avoid enemies and steal an item (the golden goat!). Return the goat to your starting position to win.
 

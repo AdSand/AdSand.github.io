@@ -4,9 +4,7 @@
 
 This project included the tutorials and coursework submission for the CSC8502 - Advanced Graphics for Games module at Newcastle University.
 
-A graphical planet scene was created using C++ and OpenGL.
-
-For this coursework I recieved a mark of 82%
+A graphical planet scene was created using C++ and OpenGL. For this coursework I recieved a mark of 82%
 
 Code for this project [can be found here.](https://github.com/AdSand/CSC8502/tree/master/Blank%20Project)
 
