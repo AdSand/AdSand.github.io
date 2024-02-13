@@ -1,4 +1,4 @@
-## Team Game Jam (January 2024)
+# Team Game Jam (January 2024)
 
 ---
 

@@ -1,4 +1,4 @@
-## CSC8501 - Advanced Programming for Games
+# CSC8501 - Advanced Programming for Games
 
 ---
 
