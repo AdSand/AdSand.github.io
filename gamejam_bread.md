@@ -17,7 +17,7 @@ My main roles in the project:
 - UI programming
 - Scene management
 - Animation using Unity's built in animation features
-- Clouds creating using Unity's particle system
+- Clouds using Unity's particle system
 - Creating a visualisation of the game state, using a grid based system
 - Art assets
 
