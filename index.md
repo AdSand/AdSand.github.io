@@ -5,6 +5,13 @@
 ## University Projects
 
 ---
+[Advanced Programming For Games](/advanced_programming)
+
+#### Learning C++ for programming video games and completing tasks based on a combinatorial problem.
+
+[<img src="images/AdvancedProgrammingThumbnail.png?raw=true"/>](/advanced_programming)
+
+---
 
 [Advanced Graphics for Games](/advanced_graphics)
 
@@ -18,15 +25,6 @@
 #### A heist game, created with C++. Involved implementing physics, AI and networking.
 
 [<img src="images/AdvancedGamesThumbnail.png?raw=true"/>](/advanced_technologies)
-
----
-[Advanced Programming For Games](/advanced_programming)
-
-
-#### Learning C++ for programming video games and completing tasks based on a combinatorial problem.
-
-
-[<img src="images/AdvancedProgrammingThumbnail.png?raw=true"/>](/advanced_programming)
 
 ---
 [Gaming Technologies and Simulations](/games_tech)
