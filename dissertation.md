@@ -12,7 +12,7 @@ Tasks involved:
 - Creating the Unity environment
 - Implementing the genetic algorithm
 - Implementing different observations of the agents
-- Implmeneting the A* pathfinding algorithm for comparison.
+- Implementing the A* pathfinding algorithm for comparison.
 - Setting up the NavMesh for comparison
 - Creating a training environment
 - Creating scripts to store test data
